@@ -1,0 +1,9 @@
+project = 'Technical Documentation Collection'
+author = 'Md. Meheraz Hossain Chayan'
+copyright = '2026, Md. Meheraz Hossain Chayan'
+extensions = []
+master_doc = 'index'
+exclude_patterns = ['_build']
+templates_path = ['_templates']
+html_theme = 'furo'
+html_title = 'Technical Documentation Collection'
